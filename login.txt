@@ -1,0 +1,8 @@
+login admin : 
+
+email :admin@gmail.com
+pass  :admin
+
+pengguna :
+email	:member@gmail.com
+pass	:member
